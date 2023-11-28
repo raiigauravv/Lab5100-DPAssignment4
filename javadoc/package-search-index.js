@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"facade"},{"l":"factory"},{"l":"MoonRover"},{"l":"singleton"}];updateSearchResults();
